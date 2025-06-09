@@ -24,7 +24,6 @@ print(f"Hello {text}")  # Hello Python
 a, b = 5, 2
 print(a + b, a - b, a * b, a / b, a ** b, a // b, a % b)
 ```
-
 ### 🔹 Type Conversion
 **Examples:**
 int("5"), float("3.14"), str(25)
@@ -32,9 +31,9 @@ int("5"), float("3.14"), str(25)
 ### 🔹 Math Functions
 - `abs()`, `round()`, `pow()`, `divmod()`
 - `math.sqrt()`, `math.ceil()`, `math.floor()`
+math.ceil - round a number upward to its nearest integer. 
+math.floor - rounding down floating-point numbers to the nearest whole number. 
 
 ### 🔹 Random Numbers
-```python
-import random
-random.randint(1, 10)
-random.choice([1, 2, 3])
+random.randint - generates a random integer between two specified values.
+random.choice - to select a random element from a sequence.

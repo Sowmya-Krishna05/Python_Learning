@@ -1,4 +1,4 @@
-### Day 1: Python Setup & Hello World
+# Day 1: Python Setup & Hello World
 
 **Objectives:**
 - Install Python and VSCode or any IDE
