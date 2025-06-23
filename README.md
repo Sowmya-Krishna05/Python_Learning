@@ -10,6 +10,16 @@ Welcome to Week 1 of my Python learning journey! This week covers the **fundamen
 - Practiced modular thinking and clean organization
 - Gained string manipulation skills crucial for text-based problems
 
+# Days 15-21
+
+- Explored file handling for reading and writing data
+- Practiced error handling with exceptions
+- Learned about Python modules and importing libraries
+- Worked with dates and times using the `datetime` module
+- Gained experience with list, set, and dictionary comprehensions
+- Introduced to basic object-oriented programming concepts
+- Built small projects to reinforce week’s concepts
+
 ## 📌 Topics Covered
 
 ### Day 1: Intro Basics
@@ -87,6 +97,48 @@ Welcome to Week 1 of my Python learning journey! This week covers the **fundamen
   - Searching & checking
   - Replace, count, split, join
   - Encoding & splitting lines
+
+  ### Day 15: Comprehensions
+  - List comprehensions for concise list creation
+  - Set and dictionary comprehensions
+  - Conditional and nested comprehensions
+  - Practical examples for data transformation
+
+  ### Day 16: Modules and Packages
+  - Importing standard and third-party modules
+  - Creating and using custom modules
+  - Organizing code with packages and `__init__.py`
+  - Exploring the Python Standard Library
+
+  ### Day 17: File Handling
+  - Opening, reading, and writing files
+  - File modes (`'r'`, `'w'`, `'a'`, `'b'`)
+  - Using the `with` statement for safe file operations
+  - Handling file paths and directories
+
+  ### Day 18: Exception Handling
+  - Using `try`, `except`, `else`, and `finally` blocks
+  - Handling and raising exceptions
+  - Creating custom exception classes
+  - Best practices for robust error handling
+
+  ### Day 19: Iterators & Generators
+  - Understanding iterators and the iterator protocol
+  - Creating custom iterators with `__iter__` and `__next__`
+  - Writing generator functions with `yield`
+  - Generator expressions for memory-efficient code
+
+  ### Day 20: Regular Expressions
+  - Introduction to the `re` module
+  - Pattern matching and searching text
+  - Using metacharacters and special sequences
+  - Practical examples: validation and parsing
+
+  ### Day 21: Object-Oriented Programming (OOP)
+  - Defining classes and creating objects
+  - Attributes, methods, and the `__init__` constructor
+  - Encapsulation, inheritance, and polymorphism basics
+  - Real-world OOP examples in Python
 
 ---
 
